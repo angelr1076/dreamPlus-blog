@@ -1,0 +1,32 @@
+baseurl = "https://example.com"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Hugo Theme Dream"
+theme = "hugo-theme-dream"
+
+# copyright = ""
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  author = "Angel Rodrguez"
+  motto = "Motto"
+  description = "Full-Stack Web Developer"
+  # avatar = "/themes/hugo-theme-dream/static/img/bitmoji.jpg"
+  
+  email = "angelr1076@gmail.com"
+  github = "https://github.com/angelr1076"
+  linkedin = "https://www.linkedin.com/in/angelrodriguezlead/"
+  # codepen = ""
+  # stackoverflow = ""
+
+  siteStartYear = 2018
+  aboutHeader = "AboutMe"
+
+  paginate = 4
+
+  favicon = "/favicon.ico"
