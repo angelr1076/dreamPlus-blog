@@ -1,3 +1,3 @@
-Welcome to use hugo dream theme.
+<h1>Welcome to my blog!</h1>
 
-View [http://g1eny0ung.site/hugo-theme-dream](http://g1eny0ung.site/hugo-theme-dream) for more details.
+<p>Web developer with a passion for front-end design and back-end architecture. I've worked with many tech tools, including: JavaScript, React, jQuery, Sass, AWS,ActiveRecord, Node.js, JSON, Phaser3, Tiled, SQLite3, Ruby, Ruby on Rails, Sinatra, Heroku, Firebase, Hugo, Bootsrap, Materialize, HTML5, CSS3, Git and Github. Contact me if you like my work and would like to hire me. You can either email me at angelr1076@gmail.com or contact me on social media.</p>
